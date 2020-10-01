@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kiwi 鄭可薇</title>
+    <link>https://kiwi-cheng.github.io/post/</link>
+    <description>Recent content in Posts on Kiwi 鄭可薇</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 01 Oct 2020 10:03:42 +0800</lastBuildDate><atom:link href="https://kiwi-cheng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>姐姐的更衣室</title>
+      <link>https://kiwi-cheng.github.io/post/clothes/</link>
+      <pubDate>Thu, 01 Oct 2020 10:03:42 +0800</pubDate>
+      
+      <guid>https://kiwi-cheng.github.io/post/clothes/</guid>
+      <description>衣服、外表，目的還是給別人看的，自己的感受不重要，畢竟美感很大成份也是建立在他人的眼光之上。然而賣場的另一端卻深深吸引著我，每一件衣服都有獨特的款式，牆上的模特兒相當的迷人，使我不禁幻想自己穿上這些衣服，成為一個女孩。</description>
+    </item>
+    
+    <item>
+      <title>留長頭髮，是為了成為更陰柔的人</title>
+      <link>https://kiwi-cheng.github.io/post/longhair/</link>
+      <pubDate>Fri, 06 Mar 2020 08:33:21 +0800</pubDate>
+      
+      <guid>https://kiwi-cheng.github.io/post/longhair/</guid>
+      <description>頭髮長了，相較於過去剃光兩側的俐落髮型，如今頭髮已經包覆耳朵。四個月未剪，周圍的人看到寒假後的我，紛紛問起我的改變。對於年長的老師們，我一概</description>
+    </item>
+    
+  </channel>
+</rss>
